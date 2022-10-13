@@ -1,3 +1,4 @@
+// array introduction
 #include<stdio.h>
 int main()
 {
